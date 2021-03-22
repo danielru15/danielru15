@@ -3,7 +3,8 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨💻 Acerca de mi </h3>
-- 👨🏼‍&nbsp; Soy de 🇨🇴Colombia
+
+- 👨🏼‍; Soy de 🇨🇴Colombia
 - 👨🏼‍💻 &nbsp; Actualmente aprendiendo React y Reactnative
 - 📫 Contactame; [esqui9710@gmail.com](mailto:esqui9710@gmail.com)
 
