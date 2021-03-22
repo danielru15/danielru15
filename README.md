@@ -4,9 +4,9 @@
 
 <h3> 👨💻 Acerca de mi </h3>
 
-- 👨🏼‍; Soy de 🇨🇴Colombia
-- 👨🏼‍💻 &nbsp; Actualmente aprendiendo React y Reactnative
-- 📫 Contactame; [esqui9710@gmail.com](mailto:esqui9710@gmail.com)
+- 👨🏼‍ Soy de 🇨🇴Colombia
+- 👨🏼‍💻 &nbsp: Actualmente aprendiendo React y Reactnative
+- 📫 Contactame: [esqui9710@gmail.com](mailto:esqui9710@gmail.com)
 
 <h3>🛠 Mis Habilidades son</h3>
 
