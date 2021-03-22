@@ -3,9 +3,9 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 <h3> 👨💻 Acerca de mi </h3>
-👨🏼‍&nbsp; Soy de 🇨🇴Colombia .
+- 👨🏼‍&nbsp; Soy de 🇨🇴Colombia .
 - 👨🏼‍💻 &nbsp; Actualmente aprendiendo React y Reactnative.
-- 👨🏼‍ &nbsp Contactame: [daniel](mailto:esqui9710@gmail.com)
+- 📫 Contactame: [esqui9710@gmail.com](mailto:esqui9710@gmail.com)
 
 <h3>🛠 Mis Habilidades son</h3>
 
