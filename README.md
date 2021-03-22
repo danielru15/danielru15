@@ -1,11 +1,11 @@
 
 <h2> Hola mi nombre es daniel. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 
 <h3> 👨💻 Acerca de mi </h3>
-
+👨🏼‍&nbsp; Soy de 🇨🇴Colombia .
 - 👨🏼‍💻 &nbsp; Actualmente aprendiendo React y Reactnative.
-- **Contact me :** [WangNingkai](mailto:i@ningkai.wang)
+- 👨🏼‍ &nbsp Contactame: [daniel](mailto:esqui9710@gmail.com)
 
 <h3>🛠 Mis Habilidades son</h3>
 
