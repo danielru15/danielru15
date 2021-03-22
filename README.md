@@ -17,6 +17,7 @@
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="scss" width="40" height="40"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/></a><a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
     <a href="https://materializecss.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/materializecss.svg" alt="materializecss" width="40" height="40"/></a>
+      <a href="https://figma.com/" target="_blank"> <img src="https://cdn.svgporn.com/logos/figma.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
 
