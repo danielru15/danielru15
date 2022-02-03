@@ -1,6 +1,6 @@
 
-<h2> Hola mi nombre es Daniel Ramirez. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
+<h2> Hola mi nombre es Daniel Ramirez. 
+  
 
 <h3> 👨💻 Acerca de mi </h3>
 
