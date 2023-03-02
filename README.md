@@ -1,6 +1,8 @@
 
 Hola 👋, mi nombre es Daniel Ramirez. 
 ------------------------
+Desarrollador web con conocimientos en React.
+------------------------
 
 - 🌍 Vivo en Medellín, Antioquia, Colombia.
 - ✉️ Puedes contactarme en: [danielru9715@gmail.com](mailto:danielru9715@gmail.com).
