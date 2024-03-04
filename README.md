@@ -6,7 +6,6 @@ Desarrollador web autonomo con conocimientos en React.
 
 - 🌍 Vivo en Medellín, Antioquia, Colombia.
 - ✉️ Puedes contactarme en: [danielru9715@gmail.com](mailto:danielru9715@gmail.com).
-- 🧠 Estoy aprendiendo React Native, Typescript.
 - 🤝 Estoy abierto a colaborar en proyectos.
 
 ### Skills
